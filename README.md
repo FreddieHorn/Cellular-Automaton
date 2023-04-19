@@ -1,6 +1,6 @@
 # 1D-Cellular-Automaton
 
-Purpose of this short project was to create a one dimensional cellular automaton, where user can define parameters:
+The purpose of this short project was to create a one dimensional cellular automaton, where user can define parameters:
 
 * r - neighbourhood size
 * starting conditions - either set seed or random
